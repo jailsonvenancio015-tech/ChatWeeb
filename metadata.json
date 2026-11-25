@@ -1,0 +1,10 @@
+{
+  "name": "Pulso — Mensagens & Social P2P",
+  "description": "Aplicativo de mensagens em tempo real estilo Apple Messages com servidor hospedado no dispositivo, chamadas de vídeo e áudio WebRTC, modificador de voz e rede social privada estilo Instagram.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": []
+}
